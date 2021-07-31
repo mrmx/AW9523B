@@ -6,7 +6,7 @@ from Shanghai awinic technology co.,ltd. Based on its [technical doc](https://ww
 
 Breakout board
 ---------------
-I've made a breakout board with this chip for Arduino/Raspberry with support for retro HPDL-1414 and it's available for purchasing at Tindie.com 👉 [Retro display LED Driver & 16bit I2C I/O expander](https://www.tindie.com/products/mrmx/retro-display-led-driver-16bit-i2c-io-expander/) and here it's the 🛠 [Schematic](hw/Schematic_ AW9523B_DL1414-I2C.png).
+I've made a breakout board with this chip for Arduino/Raspberry with support for retro HPDL-1414 and it's available for purchasing at Tindie.com 👉 [Retro display LED Driver & 16bit I2C I/O expander](https://www.tindie.com/products/mrmx/retro-display-led-driver-16bit-i2c-io-expander/) and here it's the 🛠 [Schematic](hw/Schematic_AW9523B_DL1414-I2C.png).
 
 ![AW9523B HPDL-1414 Breakout board](img/AW9523B_HPDL-1414.jpg)
 
